@@ -1,0 +1,17 @@
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.exe
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.dll.config
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.deps.json
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.runtimeconfig.json
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.dll
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\bin\Debug\net8.0-windows\KSU.CIS300.Snake.pdb
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.Properties.Resources.resources
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.UserInterface.resources
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.csproj.GenerateResource.cache
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.csproj.CoreCompileInputs.cache
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.sourcelink.json
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.dll
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\refint\KSU.CIS300.Snake.dll
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.pdb
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\KSU.CIS300.Snake.genruntimeconfig.cache
+C:\Users\pizza\source\repos\homework-5-assignment-evanp3954\KSU.CIS300.Snake\obj\Debug\net8.0-windows\ref\KSU.CIS300.Snake.dll
