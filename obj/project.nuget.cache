@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jb88sMH+tHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pizza\\Source\\Repos\\homework-5-assignment-evanp3954\\KSU.CIS300.Snake\\KSU.CIS300.Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pizza\\.nuget\\packages\\ksu.cs.codeanalyzers\\1.0.3.4\\ksu.cs.codeanalyzers.1.0.3.4.nupkg.sha512",
+    "C:\\Users\\pizza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pizza\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
